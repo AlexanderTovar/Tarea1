@@ -1,4 +1,4 @@
-package Tareas;
+
 
 public class Tarea1 {
 
